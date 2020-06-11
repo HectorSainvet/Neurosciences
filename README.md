@@ -1,4 +1,5 @@
 # Neurosciences
 Lab Jupyter
 
-https://mybinder.org/v2/gh/HectorSainvet/Neurosciences/39715f9dbf51c86d80e870cd3b0f4617e28c373e
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HectorSainvet/Neurosciences/master?filepath=Claustrum_Project_H_Local_Circuit.ipynb)
+
